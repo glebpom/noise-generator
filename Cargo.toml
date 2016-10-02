@@ -1,0 +1,9 @@
+[package]
+name = "noise-gen"
+version = "0.1.0"
+authors = ["Gleb Pomykalov <gleb@pomykalov.ru>"]
+
+[dependencies]
+portaudio = "*"
+rand = "0.3"
+clap = "2.12"
